@@ -1,0 +1,31 @@
+nav ul {
+    display: flex;
+    margin-top: -450px;
+    margin-left: 800px;
+    position: fixed;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 100px;
+
+}
+
+nav ul li a:hover {
+    color: rgb(30, 183, 210);
+
+
+
+
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Sen', sans-serif;
+
+
+}

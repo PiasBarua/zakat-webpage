@@ -1,0 +1,252 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    box-sizing: content-box;
+}
+
+.top-banner {
+
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), url(images/Cow-Bazar-Image.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 699px;
+    width: 1920px;
+
+}
+
+.top-content {
+    padding-top: 200px;
+    color: white;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+
+.top-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: x-large;
+
+}
+
+.top-text .t1 {
+    width: 400px
+}
+
+.top-text .t2 {
+    font-size: 15px;
+    margin-top: -35px;
+    color: rgb(30, 183, 210);
+
+}
+
+.top-text p {
+    width: 600px;
+    text-align: justify;
+
+}
+
+.top-button {
+    background-color: rgb(30, 183, 210);
+    padding: 10px 50px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.middle {
+    display: flex;
+}
+
+.middle-left-text {
+
+    padding-left: 370px;
+    width: 500px;
+    text-align: justify;
+    margin-top: 150px;
+    font-size: x-large;
+
+}
+
+.middle-right-image {
+    margin-top: 120px;
+    margin-left: 200px;
+
+}
+
+.middle-right-image .Button-play {
+    margin-top: -290px;
+    margin-left: 170px;
+}
+
+.middle-2 {
+    display: flex;
+}
+
+.middle-left-text2 {
+    padding-left: 370px;
+    width: 500px;
+    text-align: justify;
+    margin-top: 150px;
+    font-size: x-large;
+
+}
+
+.middle-right-image2 {
+    margin-top: 120px;
+    margin-left: 200px;
+}
+
+
+.top-button2 {
+    background-color: rgb(30, 183, 210);
+    padding: 10px 50px;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.section3-text {
+    text-align: center;
+    margin-top: 150px;
+    color: rgb(30, 183, 210);
+    font-size: x-large;
+
+
+
+}
+
+.section3-para {
+    width: 1000px;
+    margin-left: 450px;
+    margin-top: 30px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    color: black;
+    font-size: 18px;
+
+}
+
+.Section4 {
+
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+    margin-left: 250px;
+
+
+}
+
+.section4-text {
+    width: 400px;
+    display: flex;
+    margin-left: 200px;
+}
+
+.section4-maintext {
+    margin-left: 40px;
+    margin-top: -22px;
+}
+
+.section4-maintext p {
+
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.section4-flex {
+    display: flex;
+}
+
+.section5-imageflex {
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+    width: auto;
+}
+
+.section5-imageflex div {
+    padding: 0 15px;
+
+}
+
+.section6-text {
+    text-align: center;
+    margin-top: 100px;
+    font-size: x-large;
+}
+
+.para {
+
+    justify-content: center;
+    width: 50%;
+    padding-left: 480px;
+    font-size: small;
+    font-size: 17px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section7-flex {
+    display: flex;
+    justify-content: center;
+}
+
+.section7 {
+    width: 364px;
+    height: 450px;
+    text-align: justify;
+    margin-top: 80px;
+    padding: 0 25px;
+}
+
+.section7 p {
+    font-size: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section7 h1 {
+    padding-left: 30px;
+}
+
+.donate-form {
+    color: rgb(30, 183, 210);
+    padding-left: 30px;
+
+    /* border: none; */
+    /* border-bottom: 1px solid rgb(30, 183, 210); */
+    /* outline: none; */
+    /* padding-bottom: 10px; */
+}
+
+.border {
+    border: 1px solid rgb(30, 183, 210);
+    margin-top: -15px;
+    border-radius: 10px;
+
+}
+
+.footer {
+    background-color: #0B0D17;
+    margin-top: 100px;
+    height: 150px;
+    color: crimson;
+    font-family: 'Lobster', cursive;
+}
+
+.footer h1 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.footer h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
